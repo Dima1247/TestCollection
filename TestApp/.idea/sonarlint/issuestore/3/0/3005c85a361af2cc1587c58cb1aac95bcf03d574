@@ -1,0 +1,15 @@
+
+Vcsharpsquid:S112>"5'System.Exception' should not be thrown by user code.(Μ‚Ηÿÿÿÿÿ
+Vcsharpsquid:S112S"5'System.Exception' should not be thrown by user code.(Μ‚Ηÿÿÿÿÿ
+Vcsharpsquid:S112w"5'System.Exception' should not be thrown by user code.(®Η’όÿÿÿÿ
+Pcsharpsquid:S1144ζ",Remove the unused private field '_syncLock'.(ε©ζR8έν‚ύ/
+Scsharpsquid:S1144σ".Remove the unused private method 'TestMethod'.(Ξ®‘Α8ήν‚ύ/
+ocsharpsquid:S3241°"JChange return type to 'void'; not a single caller uses the returned value.(Ξ®‘Α8ϊΰΓ‚ύ/
+Gcsharpsquid:S1481g"*Remove the unused local variable 'worker'.(±§Γ‚
+Hcsharpsquid:S1481j"+Remove the unused local variable 'worker2'.(Ò‰¶Ξ
+;csharpsquid:S125
+"Remove this commented out code.(¥όω
+<csharpsquid:S125§"Remove this commented out code.(»μί‹
+<csharpsquid:S125·"Remove this commented out code.(ς―›ΰ
+Hcsharpsquid:S125ξ"Remove this commented out code.(¬‰γώÿÿÿÿ8μν‚ύ/
+Ccsharpsquid:S125ϊ"Remove this commented out code.(ς―›ΰ8γμη‚ύ/

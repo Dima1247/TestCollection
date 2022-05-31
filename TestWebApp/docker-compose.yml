@@ -1,0 +1,25 @@
+version: '3.4'
+
+services:
+  testwebapp:
+    image: testwebapp
+    build:
+      context: .
+      dockerfile: TestWebApp/Dockerfile
+    ports:
+      - 80:80
+    networks:
+        - rabbitmq_net
+
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    container_name: rabbitmqtest
+    ports:
+        - 5672:5672
+        - 15672:15672
+    networks:
+        - rabbitmq_net
+
+networks:
+  rabbitmq_net:
+    driver: bridge
